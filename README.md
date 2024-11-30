@@ -12,8 +12,8 @@ Welcome to my Data Analysis portfolio! Below you'll find a collection of project
   - [Power BI Reports](#power-bi-reports)
     - [HR Analytics Project](#hr-analytics-project)
     - [Zomato Project](#zomato-project)  
-  - [Excel / Google Sheets](#excel--google-sheets)
-  - [PowerBi]
+  - Excel / Google Sheets
+  - PowerBi
   
 - [Education](#education)
 - [Contact](#contact)
